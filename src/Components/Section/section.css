@@ -1,0 +1,16 @@
+.title {
+  font-size: 17px;
+  color: var(--css-white);
+  padding-left: 20px;
+}
+
+.card-container {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.section {
+  background-color: var(--css-black);
+  padding: 12px;
+  width: 100%;
+}
